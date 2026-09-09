@@ -1,0 +1,13 @@
+{
+  "name": "genpark-needleman-wunsch-global-sequence-alignment-skill",
+  "version": "1.0.0",
+  "description": "Needleman-Wunsch dynamic programming algorithm for optimal global pairwise alignment of nucleotide and amino acid sequences with customizable scoring matrices.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "needleman-wunsch",
+    "sequence-alignment",
+    "bioinformatics",
+    "dynamic-programming"
+  ]
+}
