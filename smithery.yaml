@@ -1,0 +1,5 @@
+name: genpark-needleman-wunsch-global-sequence-alignment-skill
+description: Needleman-Wunsch dynamic programming algorithm for global biological sequence alignment and homological comparison
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
